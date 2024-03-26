@@ -1,0 +1,42 @@
+{
+  "_threadList": {
+    "1": {
+      "_methods": [
+        {
+          "_nestedStack": [
+            {
+              "_nestedStack": [
+                {
+                  "_nestedStack": [],
+                  "name": "DoSubWork",
+                  "classname": "Worker",
+                  "time": 64
+                }
+              ],
+              "name": "DoWork",
+              "classname": "Worker",
+              "time": 164
+            },
+            {
+              "_nestedStack": [
+                {
+                  "_nestedStack": [],
+                  "name": "DoSubWork",
+                  "classname": "Worker",
+                  "time": 63
+                }
+              ],
+              "name": "DoWork",
+              "classname": "Worker",
+              "time": 173
+            }
+          ],
+          "name": "Main",
+          "classname": "Program",
+          "time": 338
+        }
+      ],
+      "_thread_time": 338
+    }
+  }
+}

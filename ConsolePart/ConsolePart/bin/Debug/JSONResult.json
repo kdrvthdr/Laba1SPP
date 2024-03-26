@@ -1,0 +1,13 @@
+{
+  "MethodName": "MyMethod",
+  "ClassName": "Foo",
+  "Time": "0ms",
+  "Methods": [
+    {
+      "MethodName": "InnerMethod",
+      "ClassName": "Bar",
+      "Time": "117ms",
+      "Methods": []
+    }
+  ]
+}

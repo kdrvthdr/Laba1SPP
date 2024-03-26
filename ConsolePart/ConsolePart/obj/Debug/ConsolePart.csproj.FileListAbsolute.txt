@@ -1,0 +1,12 @@
+D:\Uni\Lab1\ConsolePart\ConsolePart\bin\Debug\ConsolePart.exe.config
+D:\Uni\Lab1\ConsolePart\ConsolePart\bin\Debug\ConsolePart.exe
+D:\Uni\Lab1\ConsolePart\ConsolePart\bin\Debug\ConsolePart.pdb
+D:\Uni\Lab1\ConsolePart\ConsolePart\obj\Debug\ConsolePart.csproj.AssemblyReference.cache
+D:\Uni\Lab1\ConsolePart\ConsolePart\obj\Debug\ConsolePart.csproj.CoreCompileInputs.cache
+D:\Uni\Lab1\ConsolePart\ConsolePart\obj\Debug\ConsolePart.exe
+D:\Uni\Lab1\ConsolePart\ConsolePart\obj\Debug\ConsolePart.pdb
+D:\Uni\Lab1\ConsolePart\ConsolePart\bin\Debug\LibraryPart.dll
+D:\Uni\Lab1\ConsolePart\ConsolePart\bin\Debug\Newtonsoft.Json.dll
+D:\Uni\Lab1\ConsolePart\ConsolePart\bin\Debug\LibraryPart.pdb
+D:\Uni\Lab1\ConsolePart\ConsolePart\bin\Debug\Newtonsoft.Json.xml
+D:\Uni\Lab1\ConsolePart\ConsolePart\obj\Debug\ConsoleP.1D8FF60C.Up2Date

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TraceResult xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MethodName>MyMethod</MethodName>
+  <ClassName>Foo</ClassName>
+  <Time>0ms</Time>
+  <Methods>
+    <TraceResult>
+      <MethodName>InnerMethod</MethodName>
+      <ClassName>Bar</ClassName>
+      <Time>117ms</Time>
+      <Methods />
+    </TraceResult>
+  </Methods>
+</TraceResult>

@@ -1,0 +1,12 @@
+<root>
+  <thread id="1" time="338">
+    <method name="Main" time="338" class="Program">
+      <method name="DoWork" time="164" class="Worker">
+        <method name="DoSubWork" time="64" class="Worker" />
+      </method>
+      <method name="DoWork" time="173" class="Worker">
+        <method name="DoSubWork" time="63" class="Worker" />
+      </method>
+    </method>
+  </thread>
+</root>
