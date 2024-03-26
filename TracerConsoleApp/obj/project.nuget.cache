@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "zj1XQhcVatXYGoF3gTAFp9+x3EG7Dd9dehokMw28BoQkM205hxvx09bzXD1UL2p2zArW4BsKiu7Y/Bb/KhpkgQ==",
+  "success": true,
+  "projectFilePath": "D:\\Uni\\SPP\\лаб 1\\лаб 1\\TracerConsoleApp\\TracerConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\NeroHaaki\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\NeroHaaki\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\NeroHaaki\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\NeroHaaki\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\NeroHaaki\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
