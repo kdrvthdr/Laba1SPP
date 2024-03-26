@@ -1,0 +1,6 @@
+D:\Uni\Lab1\LibraryPart\LibraryPart\bin\Debug\LibraryPart.dll
+D:\Uni\Lab1\LibraryPart\LibraryPart\bin\Debug\LibraryPart.pdb
+D:\Uni\Lab1\LibraryPart\LibraryPart\obj\Debug\LibraryPart.csproj.AssemblyReference.cache
+D:\Uni\Lab1\LibraryPart\LibraryPart\obj\Debug\LibraryPart.csproj.CoreCompileInputs.cache
+D:\Uni\Lab1\LibraryPart\LibraryPart\obj\Debug\LibraryPart.dll
+D:\Uni\Lab1\LibraryPart\LibraryPart\obj\Debug\LibraryPart.pdb

@@ -1,0 +1,9 @@
+D:\Uni\SPP\Laba_1\LibraryPart\LibraryPart\bin\Debug\LibraryPart.dll
+D:\Uni\SPP\Laba_1\LibraryPart\LibraryPart\bin\Debug\LibraryPart.pdb
+D:\Uni\SPP\Laba_1\LibraryPart\LibraryPart\bin\Debug\Newtonsoft.Json.dll
+D:\Uni\SPP\Laba_1\LibraryPart\LibraryPart\bin\Debug\Newtonsoft.Json.xml
+D:\Uni\SPP\Laba_1\LibraryPart\LibraryPart\obj\Debug\TracerLibrary.csproj.AssemblyReference.cache
+D:\Uni\SPP\Laba_1\LibraryPart\LibraryPart\obj\Debug\TracerLibrary.csproj.CoreCompileInputs.cache
+D:\Uni\SPP\Laba_1\LibraryPart\LibraryPart\obj\Debug\TracerLi.F020B2BC.Up2Date
+D:\Uni\SPP\Laba_1\LibraryPart\LibraryPart\obj\Debug\LibraryPart.dll
+D:\Uni\SPP\Laba_1\LibraryPart\LibraryPart\obj\Debug\LibraryPart.pdb
